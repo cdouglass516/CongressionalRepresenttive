@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+.div_main{
+    background-color: rgba(192, 192, 31, .5);
+    width: 40%;
+    height: 25rem;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+.main_article{
+}
+   
